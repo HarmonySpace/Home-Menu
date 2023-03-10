@@ -1,24 +1,3 @@
-# home-menu
+# Home-Menu
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This is a simple personal page to save your web bookmarks. This page is usefull to have your web bookmarks in diferents browsers.
