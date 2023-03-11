@@ -1,5 +1,5 @@
-<script>
-
+<script setup>
+import Book from "./components/BooksLibrary.vue"
 </script>
 
 
@@ -12,6 +12,8 @@
             <input class="row" type="text" v-model="filterlist">
         </div>
     </div>
+    <div class="books-containers"></div>
+    <Book></Book>
 </template>
     
 
